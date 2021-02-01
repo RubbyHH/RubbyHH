@@ -1,7 +1,7 @@
 ### Hi there 👋
-### * 大家好，很高兴在这个机缘巧合的情况下认识大家
-### * 我叫谭舒月，来自湖南长沙
-### * 饮冰饮泣饮雪水，大彻大悟大无畏
+### *大家好，很高兴在这个机缘巧合的情况下认识大家
+### *我叫谭舒月，来自湖南长沙
+### *饮冰饮泣饮雪水，大彻大悟大无畏
 <!--
 **RubbyHH/RubbyHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
